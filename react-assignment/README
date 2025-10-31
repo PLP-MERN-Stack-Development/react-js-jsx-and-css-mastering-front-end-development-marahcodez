@@ -1,0 +1,118 @@
+🎨 Week 3: React.js, JSX, and Tailwind CSS – Mastering Front-End Development
+🚀 Objective
+
+Build a responsive React application using JSX and Tailwind CSS that demonstrates:
+
+Component architecture
+
+State management and hooks usage
+
+API integration
+
+Clean, responsive UI design
+
+🧩 Project Overview
+
+This project focuses on building a scalable and interactive front-end using React.js and Tailwind CSS.
+It includes reusable components, effective state management, and data fetching from a public API.
+
+📂 Tasks Breakdown
+🏗️ Task 1: Project Setup
+
+Create a new React app using Vite
+
+Install and configure Tailwind CSS
+
+Organize the project structure:
+
+/components – for reusable UI components
+
+/pages – for page layouts
+
+/utils – for helper functions and custom hooks
+
+Configure routing with React Router
+
+⚙️ Task 2: Component Architecture
+
+Build the following reusable components:
+
+Button → supports variants (primary, secondary, danger)
+
+Card → for displaying boxed content
+
+Navbar → for navigation
+
+Footer → for links and copyright info
+
+Layout → wraps pages with Navbar and Footer
+
+🧠 Use props for flexibility and reusability.
+
+🧠 Task 3: State Management & Hooks
+
+Implement a TaskManager component that allows users to:
+
+➕ Add tasks
+
+✅ Mark tasks as completed
+
+❌ Delete tasks
+
+🔍 Filter tasks (All / Active / Completed)
+
+Use the following React hooks:
+
+useState → manage component states
+
+useEffect → handle side effects (e.g., loading from storage)
+
+useContext → manage theme (light/dark mode)
+
+useLocalStorage (custom hook) → persist tasks
+
+🌐 Task 4: API Integration
+
+Fetch and display data from a public API (e.g., JSONPlaceholder
+):
+
+Display fetched data in list/grid format
+
+Implement loading and error states
+
+Add pagination or infinite scrolling
+
+Include a search feature for filtering API results
+
+🎨 Task 5: Styling with Tailwind CSS
+
+Ensure full responsiveness (mobile → desktop)
+
+Implement light/dark theme switcher using Tailwind’s dark mode
+
+Use Tailwind classes for spacing, typography, layout, and color
+
+Add smooth animations and transitions for interactivity
+
+🧪 Expected Outcome
+
+By completing this project, you will have:
+✅ A fully functional React application
+✅ Clean and modular component structure
+✅ Proper state management using React hooks
+✅ API integration with error and loading handling
+✅ A responsive and polished UI built with Tailwind CSS
+
+👩‍💻 Author
+
+Ukpai Amarachi
+Fullstack Software Engineer | PLP Africa Student
+📍 Abuja, Nigeria
+📧 beckyezinne@gmail.com
+🔗 GitHub – marahcodez
+
+Visit Deployed Link below:
+https://reactfrontenddev.netlify.app/
+
+Screenshot: 
+Is in the public folder
